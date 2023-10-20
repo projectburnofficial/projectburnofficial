@@ -11,4 +11,4 @@ months, which is equivalent to 4 years and 2 months. This
 will reduce the supply by 50%, leaving only 5 billion coins in
 circulation
 
-[Readme.pdf](https://github.com/projectburnofficial/projectburnofficial/files/13053077/Readme.pdf)
+[Download Whitepaper.pdf](https://github.com/projectburnofficial/projectburnofficial/files/13053077/Readme.pdf)
