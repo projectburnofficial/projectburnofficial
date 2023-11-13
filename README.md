@@ -12,4 +12,5 @@ will reduce the supply by 50%, leaving only 5 billion coins in
 circulation
 
 
-[PROJECT BURN NOV-11-2023.pdf](https://github.com/projectburnofficial/projectburnofficial/files/13336027/PROJECT.BURN.NOV-11-2023.pdf)
+[DOWNLOAD WHITE PAPER.pdf](https://github.com/projectburnofficial/projectburnofficial/files/13336038/DOWNLOAD.WHITE.PAPER.pdf)
+
