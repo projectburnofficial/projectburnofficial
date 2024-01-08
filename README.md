@@ -12,7 +12,7 @@ months, which is equivalent to 4 years and 2 months. This
 will reduce the supply by 50%, leaving only 5 billion coins in
 circulation
 
-
-[DOWNLOAD WHITE PAPER.pdf](https://github.com/projectburnofficial/projectburnofficial/files/13336038/DOWNLOAD.WHITE.PAPER.pdf)
 ![BURNL](https://github.com/projectburnofficial/projectburnofficial/assets/147941010/7ca4cf08-233c-44e7-91c3-afe50153266c)
+[DOWNLOAD WHITE PAPER.pdf](https://github.com/projectburnofficial/projectburnofficial/files/13336038/DOWNLOAD.WHITE.PAPER.pdf)
+
 
